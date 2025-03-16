@@ -1,5 +1,5 @@
 <h1> CHALLENGE AMIGO SECRETO</h1>
-<h2> Creado por Edgar Alexander Constanza jovel</h2>
+<h4> Creado por Edgar Alexander Constanza jovel</h4>
 En este desafío, se desarrolla una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego
 realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -22,3 +22,4 @@ Fucionalidades:
     Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se         mostrará en la página.
   </li>
 </ul>
+![image](https://github.com/user-attachments/assets/bd1ac8d5-4419-4435-822b-072f1557e6a5)
