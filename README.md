@@ -28,10 +28,13 @@ Este desafio esta desarrollado de tal forma que el usuario debe agregar nombres 
 </ul>
 
 <h2> Juego en funcionamiento:</h2>
-![Imagen de Juego de Amigo Secreto funcionando](https://github.com/user-attachments/assets/400f60ea-2515-454c-bf93-72c5f2be818b)
 
 
 
+
+
+
+![Juego funcionando:](https://github.com/user-attachments/assets/44014ba0-8fba-482e-9823-fa94577954cc)
 
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
