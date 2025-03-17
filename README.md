@@ -23,3 +23,4 @@ Fucionalidades:
 </ul>
 
 ![Imagen de Juego de Amigo Secreto](https://github.com/user-attachments/assets/d3c82c30-d1f3-4ad4-92be-7f120c7459c1)
+![Imagen de Juego de Amigo Secreto funcionando](https://github.com/user-attachments/assets/400f60ea-2515-454c-bf93-72c5f2be818b)
