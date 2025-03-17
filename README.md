@@ -9,17 +9,17 @@ Este desafio esta desarrollado de tal forma que el usuario debe agregar nombres 
 Fucionalidades:
 <ul>
   <li>
-      Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista     
-       visible al hacer clic en "Adicionar".
+      <strong>Agregar nombres:</strong> Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
   </li>
   <li>
-    Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+    <strong>Validar entrada:</strong> Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
   </li>
   <li>
-    Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+    <strong>Visualizar la lista:</strong> Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
   </li>
   <li>
-    Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se         mostrará en la página.
+    <strong>Sorteo aleatorio</strong>: Al hacer clic en el botón <strong>"Sortear Amigo"</strong>, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
   </li>
 </ul>
-![image](https://github.com/user-attachments/assets/bd1ac8d5-4419-4435-822b-072f1557e6a5)
+
+![Imagen de Juego de Amigo Secreto](https://github.com/user-attachments/assets/d3c82c30-d1f3-4ad4-92be-7f120c7459c1)
