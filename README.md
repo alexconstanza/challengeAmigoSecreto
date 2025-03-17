@@ -1,4 +1,4 @@
-<h1 align = "center"> CHALLENGE AMIGO SECRETO</h1>
+<em align = "center"> CHALLENGE AMIGO SECRETO</em>
 <h4> Creado por Edgar Alexander Constanza Jovel:</h4>
 En este desafío, se desarrolla una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego
 realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
