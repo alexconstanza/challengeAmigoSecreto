@@ -15,6 +15,12 @@ function agregarAmigo(){
         console.log(conjuntoAmigos);
     }
     limpiarCaja();
+    //lista de participantes
+    const amigoAsignado = document.createElement('li');
+    const textoElementoPadreUl = document.createTextNode(amigosIngreso);
+    const elementoPadreUl = document.querySelector('.name-list');
+    elementoPadreUl.appendChild(amigoAsignado);
+    amigoAsignado.appendChild(textoElementoPadreUl);
 }
 
 function limpiarCaja(){
@@ -27,27 +33,22 @@ function sortearAmigo(){
     console.log(numeroSorteo);
     console.log(conjuntoAmigos[verificarRifa]);
     console.log(verificarRifa);
-    return conjuntoAmigos[verificarRifa];
+
+    const amigoSorteado = document.createElement('li');
+    const textoAmigoSorteado = document.createTextNode('El amigo secreto es: ' + conjuntoAmigos[verificarRifa]);
+    const elementoPadreAmigoSorteado = document.querySelector('.result-list');
+    elementoPadreAmigoSorteado.appendChild(amigoSorteado);
+    amigoSorteado.appendChild(textoAmigoSorteado);
 }
-let guardarValor = sortearAmigo();
+    
 
-const parrafoCuatro = document.createElement('p');
-const textoParrafoCuatro = document.createTextNode('Párrafo 4');
-const elementoPadre = document.querySelector ('.padre');
-elementoPadre.appendChild(parrafoCuatro);
-parrafoCuatro.appendChild(textoParrafoCuatro);
-/*const itemAgregado = document.createElement('li');
-const textItemAgregado = document.createTextNode("Parrafo 4");
-const amigoGanador = document.querySelector('.result-list');
-amigoGanador.appendChild(itemAgregado);
-*/
-/*function mostrarAmigo(){
-    let amigoSeleccionado = document.querySelector("result-list");
-    let li1 = document.createElement("li");
-    li1.textContent = conjuntoAmigos
+    
 
-let itemAgregado = document.createElement("li");
-itemAgregado.textContent = guardarValor;
-amigoGanador.appendChild(itemAgregado);
- }*/   
+
+    
+    
+
+
+
+  
 

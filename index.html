@@ -10,7 +10,7 @@
     <title>Amigo Secreto</title>
 </head>
 
-<body>
+<body onload = "document.getElementById('amigo').focus()">
     <main class="main-content">
         <header class="header-banner">
             <h1 class="main-title">Amigo Secreto</h1>
@@ -20,7 +20,7 @@
         <section class="input-section">
             <h2 class="section-title">Digite el nombre de sus amigos</h2>
             <div class="input-wrapper">
-                <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre">
+                <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre" autofocus>
                 <button class="button-add" onclick="agregarAmigo();">Añadir</button>
                 
             </div>
@@ -28,11 +28,8 @@
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
             <ul id="resultado" class="result-list" aria-live="polite"></ul>
            
-            <div class="padre">
-                <p class="parrafos" id = "parrafo1">Párrafo 1</p>
-                <p class="parrafos" id = "parrafo2">Párrafo 2</p>
-                <p class="parrafos" id = "parrafo3">Párrafo 3</p>
-            </div>
+           
+           
            
             <div class="button-container">
                 <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
