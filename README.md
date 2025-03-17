@@ -24,3 +24,10 @@ Fucionalidades:
 
 
 ![Imagen de Juego de Amigo Secreto funcionando](https://github.com/user-attachments/assets/400f60ea-2515-454c-bf93-72c5f2be818b)
+
+
+
+
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
